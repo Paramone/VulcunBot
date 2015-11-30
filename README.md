@@ -15,7 +15,7 @@ If you'd like to fork, and change it to your liking, feel free.
 <b>Q:</b> Does the bot have a virus in it?  
 <b>A:</b> No.
 
-<b>Q:</b> Is it free? - Why?
+<b>Q:</b> Is it free? - Why?  
 <b>A:</b> Yes, why the hell not. :)
 
 <b>Q:</b> Can I get banned?  
