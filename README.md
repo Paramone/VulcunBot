@@ -21,16 +21,5 @@ If you'd like to fork, and change it to your liking, feel free.
 <b>Q:</b> Can I get banned?  
 <b>A:</b> No. All the bot does is accept the 'loot' for you. 
 
-<h2> How do I set it up?</h2>
-<b>for Chrome:</b>
-<ul>
-<li>Install <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo"> Tampermonkey </a> (extension)</li>  
-<li>Install the <a href="https://greasyfork.org/en/scripts/14174-vulcun-loot-drop-bot">script</a></li>
-</ul>
 
-<b>for Firefox:</b>  
-<ul>
-<li>Install <a href="https://addons.mozilla.org/nl/firefox/addon/greasemonkey/"> Greasemonkey </a> (extension)</li>  
-<li>Install the <a href="https://greasyfork.org/en/scripts/14174-vulcun-loot-drop-bot">script</a></li>
-</ul>
 
